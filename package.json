@@ -1,0 +1,19 @@
+{
+  "type": "module",
+  "name": "entrega1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "funcion.js",
+  "scripts": {
+    "start:dev": "nodemon funcion.js",
+    "start": "node funcion.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
